@@ -16,4 +16,13 @@
 
 1. This is going to be the name of this orphan branch 
 
+New auto push file
+
+```sh 
+#!/bin/bash 
+git add .
+git commit -m "🃏🦀 - lq/r1(orphan) work"
+git push 
+git branch -a 
+```
 
